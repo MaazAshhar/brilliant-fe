@@ -55,9 +55,9 @@ const Press = () => {
           </div>
           <p className="text-gray-500 sm:text-xl text-center sm:text-left mt-16">
             Read more articles about Brilliant{" "}
-            <a className="text-gray-800 font-semibold" href="#">
+            <span className="text-gray-800 font-semibold cursor-pointer">
               <u>here</u>
-            </a>
+            </span>
           </p>
         </div>
       </div>
